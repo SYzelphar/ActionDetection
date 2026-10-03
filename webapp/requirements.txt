@@ -1,0 +1,4 @@
+tensorflow==2.18.*
+mediapipe==0.10.21
+fastapi
+uvicorn[standard]

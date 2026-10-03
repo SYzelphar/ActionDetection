@@ -3,3 +3,5 @@ new-workspace.jupyterlab-workspace
 /MP_Data
 /Logs
 /.ipynb_checkpoints
+.venv/
+__pycache__/
